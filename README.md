@@ -32,3 +32,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## Deployment
+
+Webpage Link - https://erfaizanmemon.github.io/Work-Day-Scheduler/
+
+Github Link - https://github.com/ErFaizanMemon/Work-Day-Scheduler
